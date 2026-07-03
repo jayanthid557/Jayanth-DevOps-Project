@@ -1,0 +1,4 @@
+8080 : Jenkins
+8082 : nagios
+8083 : graphite
+3000 : graphana
